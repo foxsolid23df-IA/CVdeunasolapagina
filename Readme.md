@@ -2,7 +2,8 @@
 
 
 
-\_https://github.com/foxsolid23df-IA/CVdeunasolapagina.git\_
+\_https://roadmap.sh/projects/single-page-cv\_
+
 
 
 
